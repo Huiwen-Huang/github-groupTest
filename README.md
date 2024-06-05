@@ -2,3 +2,4 @@
 
 - Ariel
 - Emma
+- Chloe
